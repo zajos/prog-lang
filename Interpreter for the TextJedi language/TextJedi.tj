@@ -1,0 +1,8 @@
+new int myInt;
+new text myText;
+myInt:=58;
+myText:="Selam";
+myText:=myText-"el";
+myInt:=myInt+8;
+output myText;
+output asString(myInt);

@@ -1,0 +1,14 @@
+Identifier(hi)
+Operator(:=)
+Identifier(hello)
+Operator(+)
+IntConst(25)
+EndOfLine
+LeftPar
+RightSquareBracket
+Identifier(hello)
+Operator(++)
+EndOfLine
+StrConst("skdasod")
+Keyword(if)
+Keyword(while)

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1687207511 source:c:\users\emre\desktop\prog lang\interpreter for the textjedi language\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+
